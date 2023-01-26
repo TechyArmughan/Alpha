@@ -5,13 +5,13 @@ It can play music for you.
 It can do Wikipedia searches for you.
 It is capable of opening websites like Google, Youtube, etc., in a web browser.
 It is capable of opening your code editor or IDE with a single voice command.
-Enough talks! Let's start building our own J.A.R.V.I.S.
+Enough talks! Let's start building our own A.L.P.H.A
 
-10:08 – Starting VS Code
-I am going to use the VS Code IDE in this video. Feel free to use any other IDE you are comfortable with. Start a new project and make a file called jarvis.py.
+10:08 – Starting Pycharm
+I am going to use the Pycharm IDE in this video. Feel free to use any other IDE you are comfortable with. Start a new project and make a file called jarvis.py.
 
 10:54 – Defining Speak Function
-The first and foremost thing for an A.I. assistant is that it should be able to speak. To make our J.A.R.V.I.S. talk, we will make a function called speak(). This function will take audio as an argument, and then it will pronounce it.
+The first and foremost thing for an A.I. assistant is that it should be able to speak. To make our A.L.P.H.A talk, we will make a function called speak(). This function will take audio as an argument, and then it will pronounce it.
 
 def speak(audio):
        pass      #For now, we will write the conditions later.
